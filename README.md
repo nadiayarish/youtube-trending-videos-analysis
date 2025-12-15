@@ -1,6 +1,3 @@
-# youtube-trending-videos-analysis
-Exploratory data analysis of YouTube trending videos using Google Sheets
-
 # YouTube Trending Videos Analysis (US)
 
 This project is an exploratory data analysis of YouTube trending videos in the United States.
@@ -74,7 +71,7 @@ Key metrics include:
 
 ## 🔗 Links
 
-- 📄 **Full analysis report (PDF)**: [View report](report/youtube_trending_analysis_report (1).pdf)
+- 📄 **Full analysis report (PDF)**: [View report](report/youtube_trending_analysis_report(1).pdf)
 - 📊 **Interactive Google Sheets dashboard**: *(https://docs.google.com/spreadsheets/d/18YRu2iOYRhMTFPTjw1fOlbFRaW8ucUYH3ndpz12uoh0/edit?usp=sharing)*
 
 ---
