@@ -69,17 +69,17 @@ Key metrics include:
 
 ---
 
-## 🔗 Links
+## Links
 
-- 📄 **Full analysis report (PDF)**: [View report](report/youtube_trending_analysis_report.pdf)
-- 📊 **Interactive Google Sheets dashboard**: *(https://docs.google.com/spreadsheets/d/18YRu2iOYRhMTFPTjw1fOlbFRaW8ucUYH3ndpz12uoh0/edit?usp=sharing)*
+-  **Full analysis report (PDF)**: [View report](report/youtube_trending_analysis_report.pdf)
+-  **Interactive Google Sheets dashboard**: *(https://docs.google.com/spreadsheets/d/18YRu2iOYRhMTFPTjw1fOlbFRaW8ucUYH3ndpz12uoh0/edit?usp=sharing)*
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Google Sheets
 - Pivot Tables
 - QUERY, ARRAYFORMULA, VLOOKUP
-- Data visualization & dashboarding
+- Data visualisation & dashboarding
 
